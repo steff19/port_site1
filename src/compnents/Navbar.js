@@ -7,9 +7,11 @@ function Navbar() {
         <nav className='navbar'>
           <div className='navbar-container'>
               <Link to="/" className="navbar-logo">
-                  RAYGUN <i class="fas fa-fighter-jet"></i>
+                  Pon Di Run Eats <i class="fas fa-utensils"></i>
               </Link>
-
+                <div className='menu-icon'>
+                    
+                </div>
           </div>
         </nav>
         </>
